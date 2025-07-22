@@ -11,8 +11,8 @@ This project applies **Natural Language Processing (NLP)** and the **Naive Bayes
 .
 ├── requirements.txt
 ├── datasets/completeSpamAssassin.csv
-├── spam_detection_naiveBayes.ipynb  # Main notebook containing code and outputs
-└── README.md                        # This file
+├── spam_detection_naiveBayes.ipynb
+└── README.md                     
 ```
 
 ---
