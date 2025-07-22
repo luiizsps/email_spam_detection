@@ -53,16 +53,6 @@ The Naive Bayes classifier shows strong performance in detecting spam messages, 
 
 ---
 
-## 📎 Example
-
-**Input message**:  
-`"Congratulations! You've won a free iPhone. Claim now!"`
-
-**Predicted label**:  
-`Spam`
-
----
-
 ## ✍️ Author
 
 Luiz Sérgio  
